@@ -1,2 +1,2 @@
 # hello-world
-Describes about the great lines of a  j abdul kalam.
+Describes about the great lines of a p j abdul kalam.
